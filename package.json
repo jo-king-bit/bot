@@ -1,0 +1,8 @@
+{
+“name”: “auto text priv”,
+“version”: “1.0.0”,
+“description”: “Auto-Text”,
+“main”: “bot.js”,
+“author”: “Jo-King”,
+“dependencies”: {}
+}
